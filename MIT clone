@@ -1,0 +1,652 @@
+<------------------HTML---------------------->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mit</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<div class="container">  
+    <div class="background">
+      <img src="/images/body_image.png" alt="" id="bgimage">
+    </div>
+    <div class="head">
+      
+      <div class="logo">
+        <a href="#">  <img src="/images/Group 918.svg" alt="logo"></a>
+      </div>        
+      <ul class="navigation" >
+      <li> <a href="#">ABOUT US</a> </li>
+      <li> <a href="#">ACADEMICS</a> </li>
+      <li> <a href="#">RESEARCH</a> </li>
+      <li> <a href="#">FACULTY</a> </li>
+      <li> <a href="#">ADMISSIONS</a> </li>
+      <li> <a href="#">LIFE@MITWPU</a> </li>
+      <li> <a href="#">OUTCOME</a> </li>
+      <li>  <a href="#"> <img src="/images/hamburger.png" alt="hamburger"> </a> </li>
+      </ul>
+      </div>
+      <div class="body">
+        <div class="inside_body">
+          <img src="/images/red_Rectangle.svg" alt="red_Rectangle">
+          <div class="red_content">
+            <p>Empowering <br> the youth of <br> today</p>
+            <p>to become the</p>
+            <p>Leaders of tomorrow </p>
+          </div>         
+        </div>  
+
+        <div class="yellow_box">          
+          <div class="yellow_box_text">
+          <span style="color: #DA3948; font-size: 1.125rem;">Admission Help : </span>   <span style="font-size: 1.125rem; font-family: 'Roboto', 'Bold';">+91 98101 98101</span>  
+        
+          </div>
+         
+        </div>
+       
+        </div>
+          
+<div class="page_2">
+  <div class="first">
+    <div class="innovation">
+      <p>Study</p>
+      <p>Innovation is in our DNA, <br>
+       explore our pillars of knowledge</p>
+    </div>
+
+
+    <div class="search">
+      <input  type="text" placeholder="search course">
+      <span><img src="/images/search.svg" alt="search"></span>
+    </div>
+  </div>
+
+
+<div class="programs">
+  <div class="progr">
+    <div class="undergraduate">
+      <p style="color: #253C88;">Undergraduate Programs</p>
+      <p>With the UG Courses in India offering a vast number of disciplines in arts as well as science and commerce subjects</p>
+       <a href="#"> <img src="/images/right_nav.svg" alt="next"> </a>
+    </div>
+    
+    <div class="undergraduate">      
+      <p style="color: #F3BE34;">Postgraduate Programs</p>
+      <p>The different programs in the PG courses in India are either course work based or research based</p>
+      <a href="#"> <img src="/images/right_nav.svg" alt="next"> </a>
+    </div>
+    
+    <div class="undergraduate">
+      <p style="color: #EA436E;">Other Study Options</p>
+      <ul class="nav">
+        <li > <a href="#">Ph.D. Courses  <span >  <a href="#" style="float:right;"> <img src="/images/riiiight.svg" alt="right" > </a> </span></a> </li> 
+        <li > <a href="#">Short Term Courses <span>  <a href="#" style="float:right;"> <img src="/images/riiiight.svg" alt="right"> </a> </span></a> </li> 
+        <li > <a href="#">Certification Courses<span>  <a href="#" style="float:right;"> <img src="/images/riiiight.svg" alt="right"> </a> </span></a> </li> 
+        <li > <a href="#">Diploma Courses  <span>  <a href="#" style="float:right;"> <img src="/images/riiiight.svg" alt="right"> </a> </span></a> </li> 
+        <li > <a href="#">Integrated Courses <span>  <a href="#" style="float:right;"> <img src="/images/riiiight.svg" alt="right"> </a> </span></a> </li> 
+        </ul>
+    </div>
+
+    <div class="specializations">
+      <div class="sixteen">
+        <p>16</p>
+        <p>specializations</p>
+      </div>   
+      <div class="sixteen">
+        <p>34</p>
+        <p>Schools</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="View">
+  <div class="view_text">
+    <p>View All Courses</p> 
+  </div>
+  <div class="view_arrow">
+    <a href="#"> <img src="/images/right_nav.svg" alt=""> </a>
+  </div>  
+  </div>
+</div>  
+
+
+<div class="page3">
+<div class="contents">
+<p >Research</p>
+<div class="discover">
+  <p>Discover more about our dedication to producing internationally recognised research</p>
+</div>
+<div class="cover">
+  <div class="our_latest">
+    <p>Our latest Research Excellence Framework (REF 2014) results make impressive reading.</p>
+    <p>93%</p>
+    <p>93% of ourr research was internationally recognised for quality.</p>
+    </div>
+    <div class="photo">
+      <div class="musk">
+        <img src="/images/musk.png" alt="musk">
+        <!-- <p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p> -->
+      </div>
+      
+      <div class="musk">
+        <img src="/images/selena.png" alt="selena">
+        <!-- <p>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p> -->
+      </div>
+    </div>    
+</div>
+</div>
+</div>
+
+<div class="happenings">
+  <p>Happenings</p>
+</div>
+
+<div class="Happenings_boxes">
+  <div class="a">
+    <div class="one">
+      <div class="t1">
+        <p>03</p>
+      <p>Jan'22</p>
+      </div>    
+      <div class="t2">
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>
+  
+  
+  
+    <div class="one photo">
+      <div class="t1">
+        <p>03</p>
+      <p>Jan'22</p>
+      </div>    
+      <div class="t2">
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>
+  
+  
+  
+    <div class="one photo2">
+      <div class="t1">
+        <p>03</p>
+      <p>Jan'22</p>
+      </div>    
+      <div class="t2">
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>   
+  </div>
+  </div>
+
+
+
+<div class="Happenings_boxes">
+  <div class="a">
+    <div class="one scholar">
+      <div class="t1">
+        <p>03</p>
+      <p>Jan'22</p>
+      </div>    
+      <div class="t2">
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>  
+  
+    <div class="one yy">
+      <div class="t1">
+        <p>03</p>
+      <p>Jan'22</p>
+      </div>    
+      <div class="t2">
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>
+  
+   
+    <div class="one car">
+      <div class="t1">
+        <p>03</p>
+      <p>Jan'22</p>
+      </div>    
+      <div class="t2">
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+    </div>
+</div>
+</div>
+
+<div class="notice">
+  <div class="enclose">
+    <div class="n_text">
+      <p>Notices &  <br> Announcements
+      </p>
+    </div>
+  
+  
+    <div class="lorem_text">
+      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+    </div>
+  </div>
+</div>
+</div>   
+</body>
+</html>
+
+
+
+
+
+<-----------------------------------CSS------------------------------>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Work+Sans:wght@600&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ /* background-color: black; */
+}
+
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+   width: 100%;
+ 
+}
+
+.logo{
+    padding-left: 2rem;
+    width: 25%;
+}
+
+
+.navigation{   
+    display: flex;
+    padding-top: 1rem;
+    padding-right: 3rem;
+    width: 53%;
+}
+
+.navigation li{
+    padding: 1rem;
+    list-style-type: none;
+}
+
+.navigation li a{
+ color: white;
+    text-decoration: none;
+    font-size: 1.125rem;
+}
+
+
+.body{
+      padding: 25rem 10rem 0 10rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+}
+
+#bgimage{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.background{
+    position: absolute;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+}
+
+
+/* .body::before{
+content: "";
+position: absolute;
+background: url('/images/body_image.png') no-repeat;
+height:100%;
+top: 0px;
+left: 0px;
+width:100%;
+z-index: -1;
+}  */
+
+.red_content > p:nth-child(1){
+    font-size: 3.75rem;
+    font-family: 'Montserrat', 'SemiBold';
+    color: white;
+}
+
+.red_content > p:nth-child(2){
+    font-size: 2.25rem;
+    font-family: 'Montserrat', 'SemiBold';
+    margin-top: 1rem;
+    color: white;
+}
+
+.red_content > p:nth-child(3){
+    font-size: 2.25rem;
+    font-family: 'SemiBold Italic';
+    
+    color: white;
+}
+
+.inside_body{
+    position: relative;
+}
+
+.red_content{
+    color: white;
+    position: absolute;
+    top: 3rem;
+    left: 5rem;
+}
+
+.yellow_box_text{
+    background-color:#F3BE34;
+    padding: 3rem 2rem 2rem 2rem; 
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+
+.page_2{
+    display: block;
+    width: 74%; 
+    margin: 0 auto;
+    padding-top: 4rem;
+    padding-bottom: 9rem;
+    
+}
+
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+}
+    
+
+
+.innovation > p:nth-child(1){
+font-size: 2.25rem;
+font-family: 'Montserrat', 'Bold';
+font-weight: bold;
+}
+
+
+.innovation > p:nth-child(2){
+    font-size: 3rem; 
+    font-family: 'Montserrat', 'ExtraLight';
+    padding: 2rem 0;
+
+}
+
+.search {
+    background-color:#F3F3F3;
+    padding: 2rem;
+    border-radius: 50px;
+    margin-top: 1rem;
+}
+
+.search input{
+    font-size: 1.313rem;
+    background-color: #F3F3F3;
+    border: none;
+    outline: #DA3948;
+}
+
+.progr{
+    display: flex;
+  justify-content: space-between;
+}
+
+
+
+.undergraduate{
+   width: 18rem;
+   padding: 1rem;
+    /* color: #253C88; */
+    font-size: 1.25rem;
+    font-family: 'Montserrat', 'Bold';
+   }
+
+   .undergraduate>p{
+    margin-bottom: 2rem;
+   }
+
+.undergraduate>p:nth-child(2){
+    color: #7D7D7D;
+    font-size: 1rem;
+}
+
+.nav li{
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.nav li a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #7D7D7D;
+   margin-right: .5rem;
+}
+
+
+.sixteen>p:nth-child(1){
+color: #DA3948;
+font-size:  4.5rem;
+font-family: 'Montserrat', 'Bold';
+}
+
+
+.sixteen>p:nth-child(2){
+    font-family: 'Montserrat', 'Light';
+    font-size:  1.875rem; 
+    margin-bottom: 2rem;
+    }
+
+
+    .specializations{
+        background-color: #D3F2F5;
+        padding: 1rem 3rem;
+    }
+    
+
+    .View{
+        display: flex;
+     padding: 2rem;
+     background-color: lawngreen;
+        align-items: center;
+        border-radius: 50px;
+        margin: 1rem 0;
+        width: 30rem;
+        /* justify-content: center; */
+        /* width: 30%; */
+    }
+
+    .view_text>p{
+        margin-right: 1rem;
+        font-size: 2rem;
+        font-family: 'Montserrat', 'Bold';       
+    }
+
+
+    .page3{
+        background-color: #4599A4;
+        width: 100%;
+        height: 100%;
+    }
+    
+.contents{
+    display: block;
+    width: 74%; 
+    margin: 0 auto;
+    padding-top:7rem;
+/* isko end pr kaise layenge 74 width k end pr */
+}
+
+
+.contents p{
+color: #FFFFFF;
+font-size: 2.25rem;
+}
+  
+.discover{
+    font-size: 3rem;
+    font-family: 'Montserrat', 'ExtraLight';
+    width: 70%;
+    padding: 3rem 0;
+}
+
+.cover{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5rem;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.our_latest>p:nth-child(1){
+font-size: 1.313rem;
+}
+
+
+.our_latest>p:nth-child(2){
+font-size: 10rem;
+color: #5DCDDB ;
+font-family: 'Oswald', 'SemiBold';
+font-weight: 600;
+padding: 1rem 0;
+}
+
+.our_latest>p:nth-child(3){
+    font-size: 1.313rem;
+    }
+    
+/* .musk{
+    width: 30%;
+} */
+
+
+
+
+ .musk p{
+    font-family: 'Montserrat', 'Light';
+    font-size: 1.875rem;
+    font-size: 1.8rem;
+    /* padding: 2rem 0; */
+ }
+ 
+
+.Happenings_boxes{
+    width: 74%;
+    display: block;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.happenings{
+    display: block;
+    margin: 0 auto;
+    width: 74%;
+padding-bottom: 2rem;
+}
+
+
+
+
+
+.happenings p{
+font-size: 2.25rem;
+padding-top: 3rem;
+}
+
+.one{
+    background-color: #EA436E;
+    display: inline-block;
+    margin: 0.5rem;
+}
+ 
+.t1{
+    padding: 2rem 0;  
+    line-height: .49;   
+}
+
+
+
+.t1 p{
+    font-size: 4.5rem;
+    color: white;
+    padding: 1rem ;
+}
+
+.t2 p{
+    color: white;
+    font-size: 2.25rem;
+    padding: 1rem 0 3rem 1rem;
+}
+
+.a{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.notice{
+    display: block;
+    margin: 0 auto;
+    width: 74%;
+    padding: 3rem 0;
+}
+
+.n_text{
+    border-right: 1px solid  #4599A4;
+    padding-right: 2rem ;
+}
+ 
+.n_text p{
+font-size: 2rem;
+font-family: 'Montserrat', 'bold';
+}
+
+.lorem_text{
+    color: #7D7D7D;
+    padding: 0 3rem;
+}
+
+.enclose{
+    display:flex ;
+    align-items: center;
+}
+
+.photo2{
+    background-color: #90f334;
+}
+
+
+.scholar{
+    background-color: #34f3d3cc;
+}
+
+.yy{
+    background-color: #348df3;
+}
+
+.car{
+    background-color: #f334d3;
+}
